@@ -1,6 +1,6 @@
 #import and read datafile
 library(readxl)
-gainData = read_excel("C:/Users/.../517 project 4.xlsx") #substitute in your own working directory!
+gainData = read_excel("C:/Users/.../polyblockgain.xlsx") #substitute in your own working directory!
 head(gainData)
 View(gainData)
 
