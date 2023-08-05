@@ -1,6 +1,6 @@
 #import and read datafile
 library(readxl)
-gainData = read_excel("C:/Users/dz/Documents/Course Work/STAT 517/proj4/517 project 4.xlsx")
+gainData = read_excel("C:/Users/.../517 project 4.xlsx") #substitute in your own working directory!
 head(gainData)
 View(gainData)
 
