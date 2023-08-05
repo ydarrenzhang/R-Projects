@@ -1,3 +1,8 @@
+## Darren Zhang
+#Model was developed in R software through use of supplied data utilizing polyethylene blocks as
+#substitutes for snow; blocks of nine different densities served to simulate the possible densities of varying
+#degrees of packed snow.
+-----
 #import and read datafile
 library(readxl)
 gainData = read_excel("C:/Users/.../polyblockgain.xlsx") #substitute in your own working directory!
